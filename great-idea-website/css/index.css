@@ -145,3 +145,7 @@ main{
 .rightMost{
 	padding-right:0;
 }
+.copyright{
+	padding:100px 0px 150px;
+	text-align:center;
+}

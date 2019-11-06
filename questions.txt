@@ -10,3 +10,9 @@ main section:
     when is it appropriate
     to use a div instead of
     section?
+
+    Why can't width add up to 100%?
+
+    How can I get the about and 
+    vision sections to reach all 
+    the way to the edge?
