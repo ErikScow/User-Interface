@@ -64,15 +64,33 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-
+nav, img{
+	display: inline-block;
+}
+nav {
+	margin:0px 20px;
+}
 nav a{
 	text-decoration: none;
 	display: inline-block;
 	color: lightgray;
-	height: 40px;
-	width: 
+	padding: 15px;
 }
-
-.logo {
+.logo{
+	margin: 15px 10px;
+}
+.headerleft {
 	display: inline-block;
+	width:250px;
+	height:300px;
+	margin: 75px;
+	text-align: center;
+	border: 1px solid black;
+}
+.title{
+	font-size: 60px;
+}
+.headerimg{
+	width:300px;
+	margin:20px 10px;
 }
