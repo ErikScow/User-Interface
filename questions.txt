@@ -1,0 +1,12 @@
+Nav bar and logo:
+    How could I have done
+    this using percentages
+    (or other non fixed
+    method) instead of using
+    px and guessing until it
+    worked?
+
+main section:
+    when is it appropriate
+    to use a div instead of
+    section?
