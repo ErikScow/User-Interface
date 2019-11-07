@@ -80,12 +80,19 @@ nav a{
 	text-decoration: none;
 	display: inline-block;
 	color: gray;
-	padding: 30px 50px 30px 0px;
+	padding: 30px 35px 30px 15px;
+}
+nav a:hover{
+	background-color: white;
+	color: darkgrey;
 }
 .logo{
 	padding-top:20px;
 	padding-right: 30px;
 	float:right;
+}
+.headerTop{
+	background-color: aliceblue;
 }
 .headerBottom{
 	text-align: center;
@@ -110,10 +117,15 @@ nav a{
 	font-size: 70px;
 }
 .button{
+	background-color: white;
 	display:inline-block;
 	margin-top: 5px;
 	padding: 5px 30px;
 	border: 1px solid gray;
+}
+.button:hover{
+	background-color: lightgrey;
+	border: 1px solid white;
 }
 .rightBox{
 	width:440px;
